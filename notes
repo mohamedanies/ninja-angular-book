@@ -1,0 +1,1 @@
+- ng new myappname --prefix anyword --defaults >> to specifiy prefix of app name

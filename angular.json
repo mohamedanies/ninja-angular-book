@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ponyracer"
+    }
+  },
+  "defaultProject": "ponyracer",
+  "cli": {
+    "analytics": false
+  }
 }
