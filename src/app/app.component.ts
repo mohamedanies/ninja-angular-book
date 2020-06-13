@@ -12,6 +12,8 @@ import { Component } from '@angular/core';
              <input type="text" #name>
              <button (click)="name.focus()">Focus the input</button>
              <ns-races > </ns-races>
+             <hr/>
+             <ns-ponies></ns-ponies>
              `,
   styleUrls: ['./app.component.css']
 })
